@@ -1,0 +1,24 @@
+{
+  "name": "sumstringsasnumbersfunc",
+  "version": "1.0.0",
+  "description": "Function for summing two strings as numbers. This answers a Code Wars 4th-level Kyu question. https://www.codewars.com/kata/5324945e2ece5e1f32000370/train/javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Code Wars",
+    "4th Kyu",
+    "Code Wars Algorithm",
+    "Sum Large Numbers"
+  ],
+  "author": {
+    "name": "Daniel Leng JianJun",
+    "email": "danlengjj@gmail.com",
+    "url": "http://dleng.xyz/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
